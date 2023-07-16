@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ivaryadav
-- 👀 I’m interested in Manual Testing and Automation creation 
-- 🌱 I’m currently learning Quality Assurance 
-- 💞️ I’m looking to collaborate on Software testing work flows
+- 👋 Hi, I’m Ravi Yadav
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning CORDA
+- 💞️ I’m looking to collaborate on Blockchain Development
 - 📫 How to reach me - ravi9235@icloud.com
 
 <!---
