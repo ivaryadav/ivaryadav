@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Yadav
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning CORDA
+- 🌱 I’m currently learning Hyperledger Fabric
 - 💞️ I’m looking to collaborate on Blockchain Development
 - 📫 How to reach me - ravi9235@icloud.com
 
